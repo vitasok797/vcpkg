@@ -2,3 +2,5 @@
 /vcpkg/binary_cache/
 /vcpkg/manifests/
 /vcpkg/vcpkg_root/
+
+__pycache__/
