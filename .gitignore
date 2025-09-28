@@ -1,0 +1,4 @@
+/vcpkg/asset_cache/
+/vcpkg/binary_cache/
+/vcpkg/manifests/
+/vcpkg/vcpkg_root/
