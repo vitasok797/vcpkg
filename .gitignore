@@ -1,5 +1,6 @@
 /vcpkg/asset_cache/
 /vcpkg/binary_cache/
 /vcpkg/manifests/
+/vcpkg/_temp/
 
 __pycache__/
