@@ -12,7 +12,7 @@ def delete_dir(dir_name: str) -> None:
     target_dir = VCPKG_ROOT_DIR / dir_name
 
     if not target_dir.is_dir():
-        print('not found')
+        print('missing')
         return
 
     try:
